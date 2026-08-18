@@ -122,9 +122,11 @@ Once the backend is running, visit `http://localhost:8000/docs` for interactive 
 | GET | `/api/categories` | Get legal help categories |
 | GET | `/health` | Health check |
 
-## Demo
+## Live Demo
 
-[Demo Video Link - Coming Soon]
+**Prototype:** [https://nyaya-setu-brown.vercel.app](https://nyaya-setu-brown.vercel.app)
+
+**Demo Video:** [Watch on YouTube](link-to-be-added)
 
 ## Innovation & Impact
 
