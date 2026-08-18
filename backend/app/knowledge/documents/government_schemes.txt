@@ -1,0 +1,111 @@
+MAJOR GOVERNMENT SCHEMES AND WELFARE PROGRAMS - INDIA
+
+1. PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)
+Category: Agriculture/Farmers
+Benefit: Rs. 6,000 per year in 3 installments of Rs. 2,000 each
+Eligibility: All landholding farmer families (subject to exclusions)
+Exclusions: Income tax payers, government employees, professionals (doctors, engineers, lawyers, CAs)
+How to Apply: Visit nearest Common Service Centre (CSC) or apply online at pmkisan.gov.in
+Documents: Aadhaar, land records, bank account details
+
+2. PM AWAS YOJANA (PMAY) - Housing for All
+Category: Housing
+Benefit: Financial assistance for house construction/purchase
+- Urban: Rs. 2.5 lakh (EWS/LIG), interest subsidy up to Rs. 2.67 lakh (MIG)
+- Rural (PMAY-G): Rs. 1.20 lakh (plain areas), Rs. 1.30 lakh (hilly areas)
+Eligibility: Family should not own a pucca house, annual income criteria applies
+How to Apply: Through local municipal body (urban) or Gram Panchayat (rural), or online at pmaymis.gov.in
+Documents: Aadhaar, income certificate, proof of no ownership of pucca house
+
+3. AYUSHMAN BHARAT (PM-JAY) - Health Insurance
+Category: Health
+Benefit: Rs. 5 lakh per family per year for hospitalization
+Eligibility: Families identified in SECC 2011 data (rural) and occupational criteria (urban)
+- Auto-included categories: Manual scavengers, primitive tribal groups, legally released bonded laborers
+How to Apply: Visit nearest Ayushman Bharat centre or empanelled hospital with Aadhaar
+Documents: Aadhaar, ration card, any government ID
+Verification: Check eligibility at mera.pmjay.gov.in or call 14555
+
+4. MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)
+Category: Employment/Rural
+Benefit: 100 days of guaranteed wage employment per household per year
+Eligibility: Any rural household whose adult members volunteer to do unskilled manual work
+How to Apply: Apply to Gram Panchayat for Job Card
+Documents: Proof of residence, photographs, Aadhaar
+Important: If work not provided within 15 days of application, unemployment allowance is payable
+
+5. PM MUDRA YOJANA - Business Loans
+Category: Entrepreneurship/Business
+Benefit: Collateral-free loans up to Rs. 10 lakh
+- Shishu: Up to Rs. 50,000
+- Kishore: Rs. 50,001 to Rs. 5 lakh
+- Tarun: Rs. 5,00,001 to Rs. 10 lakh
+Eligibility: Any Indian citizen with a business plan for non-farm income generating activity
+How to Apply: Approach any bank, NBFC, or MFI
+Documents: Business plan, identity proof, address proof, caste certificate (if applicable)
+
+6. SUKANYA SAMRIDDHI YOJANA - Girl Child Savings
+Category: Women/Children
+Benefit: High interest savings account (currently ~8%) with tax benefits
+Eligibility: Girl child below 10 years, maximum 2 accounts per family
+How to Apply: Any post office or authorized bank
+Documents: Birth certificate of girl child, parent's ID and address proof
+Minimum deposit: Rs. 250/year, Maximum: Rs. 1.5 lakh/year
+
+7. PM VISHWAKARMA - Traditional Artisans
+Category: Artisans/Craftsmen
+Benefit: Recognition, skill training, toolkit, credit support up to Rs. 3 lakh, market access
+Eligibility: Traditional artisans and craftspeople working with hands in 18 identified trades
+Trades: Carpenter, blacksmith, goldsmith, potter, sculptor, cobbler, tailor, basket/mat maker, etc.
+How to Apply: Register at pmvishwakarma.gov.in through CSC
+Documents: Aadhaar, skill/trade proof
+
+8. NATIONAL PENSION SCHEME (NPS) / ATAL PENSION YOJANA (APY)
+Category: Pension/Social Security
+Benefit (APY): Guaranteed pension of Rs. 1,000-5,000/month after age 60
+Eligibility (APY): Indian citizens aged 18-40, with bank account
+How to Apply: Through bank or post office
+Government co-contribution: 50% of premium (up to Rs. 1,000/year) for 5 years for eligible subscribers
+
+9. STAND-UP INDIA - SC/ST/Women Entrepreneurs
+Category: Entrepreneurship
+Benefit: Bank loans between Rs. 10 lakh to Rs. 1 crore for greenfield enterprise
+Eligibility: SC/ST and/or Women entrepreneurs, above 18 years
+How to Apply: Through standupmitra.in portal or directly at bank branch
+Documents: Business plan, identity proof, caste certificate, project report
+
+10. PM SURAKSHA BIMA YOJANA - Accident Insurance
+Category: Insurance
+Benefit: Rs. 2 lakh for accidental death/full disability, Rs. 1 lakh for partial disability
+Premium: Rs. 20 per year (auto-debit from bank account)
+Eligibility: Bank account holders aged 18-70 years
+How to Apply: Through bank (auto-debit consent form)
+
+11. PM JEEVAN JYOTI BIMA YOJANA - Life Insurance
+Category: Insurance
+Benefit: Rs. 2 lakh to nominee in case of death
+Premium: Rs. 436 per year (auto-debit)
+Eligibility: Bank account holders aged 18-55 years
+How to Apply: Through bank
+
+12. NATIONAL SCHOLARSHIP PORTAL
+Category: Education
+Multiple scholarships for:
+- Pre-matric and Post-matric students from SC/ST/OBC/Minority communities
+- Merit-based scholarships
+- Means-cum-merit scholarships
+How to Apply: scholarships.gov.in
+Documents: Income certificate, caste certificate, previous year marksheet, bank details, Aadhaar
+
+ELIGIBILITY CHECKER CRITERIA:
+When determining scheme eligibility, consider:
+- Annual family income
+- Caste category (General/SC/ST/OBC)
+- Residence (Rural/Urban)
+- Age and gender
+- Occupation
+- Land ownership
+- BPL/APL status
+- Bank account status
+- Aadhaar linking
+- State of residence (some schemes are state-specific)

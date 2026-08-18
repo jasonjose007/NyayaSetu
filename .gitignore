@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.egg-info/
+dist/
+build/
+chroma_db/
+
+# Node
+node_modules/
+.next/
+out/
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated
+CLAUDE.md
+AGENTS.md

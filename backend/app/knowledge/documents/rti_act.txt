@@ -1,0 +1,64 @@
+RIGHT TO INFORMATION ACT, 2005 - KEY PROVISIONS
+
+SECTION 3: RIGHT TO INFORMATION
+Subject to the provisions of this Act, all citizens shall have the right to information.
+
+SECTION 6: REQUEST FOR OBTAINING INFORMATION
+(1) A person who desires to obtain any information shall make a request in writing or through electronic means in English or Hindi or in the official language of the area, to the Central Public Information Officer or State Public Information Officer specifying the particulars of the information sought.
+(2) An applicant making request for information shall not be required to give any reason for requesting the information or any other personal details except those that may be necessary for contacting him.
+(3) Where a request cannot be made in writing, the Central Public Information Officer or State Public Information Officer shall render all reasonable assistance to the person making the request orally to reduce the same in writing.
+
+SECTION 7: DISPOSAL OF REQUEST
+(1) The Central Public Information Officer or State Public Information Officer shall supply the information within thirty days of the receipt of the request.
+(2) Where the information sought concerns the life or liberty of a person, the same shall be provided within forty-eight hours of the receipt of the request.
+
+SECTION 8: EXEMPTIONS FROM DISCLOSURE
+Information which would prejudicially affect sovereignty and integrity of India, security of the State, strategic scientific or economic interests, relations with foreign State, or information received in confidence from foreign Government shall be exempt.
+
+SECTION 19: APPEAL
+(1) Any person who does not receive a decision within the time specified or is aggrieved by a decision of the Central Public Information Officer or State Public Information Officer may prefer an appeal to such officer who is senior in rank to the CPIO/SPIO within thirty days.
+(2) A second appeal shall lie to the Central Information Commission or the State Information Commission within ninety days.
+
+HOW TO FILE AN RTI APPLICATION:
+1. Write application addressed to the Public Information Officer of the concerned department
+2. Clearly state: "I wish to seek the following information under the Right to Information Act, 2005"
+3. Specify the information sought in clear, specific terms
+4. Pay the prescribed fee (Rs. 10 for Central Government, varies for State)
+5. Provide your name, complete address, and contact details
+6. No reason needs to be given for seeking information
+7. Submit in person, by post, or through online RTI portal (rtionline.gov.in)
+
+RTI APPLICATION FORMAT:
+To,
+The Public Information Officer,
+[Name of Department/Office],
+[Address]
+
+Subject: Application under Right to Information Act, 2005
+
+Sir/Madam,
+
+I wish to seek the following information under the Right to Information Act, 2005:
+
+1. [First question/information sought]
+2. [Second question/information sought]
+3. [Additional questions as needed]
+
+I am depositing the prescribed fee of Rs. 10/- via [Indian Postal Order/DD/Cash/Online].
+
+If the information sought is held by another public authority, kindly transfer this application under Section 6(3) of the RTI Act.
+
+Yours faithfully,
+[Name]
+[Address]
+[Phone/Email]
+[Date]
+
+IMPORTANT NOTES:
+- Fee: Rs. 10 for Central Government departments
+- BPL card holders are exempt from fee
+- Additional fee may be charged for providing information (Rs. 2 per page for photocopies)
+- Time limit: 30 days for response, 48 hours if matter concerns life/liberty
+- First appeal: within 30 days to senior officer
+- Second appeal: within 90 days to Information Commission
+- Penalty: Rs. 250 per day up to Rs. 25,000 on the PIO for non-compliance

@@ -1,0 +1,104 @@
+TENANT RIGHTS IN INDIA - KEY PROVISIONS
+
+SOURCES OF LAW:
+- Model Tenancy Act, 2021 (Central Government model for states to adopt)
+- State-specific Rent Control Acts (vary by state)
+- Transfer of Property Act, 1882 (Section 105-117)
+- Indian Contract Act, 1872
+
+KEY TENANT RIGHTS:
+
+1. RIGHT TO WRITTEN AGREEMENT:
+- Every tenancy must be in writing (Model Tenancy Act, 2021)
+- Agreement must specify rent, duration, terms of renewal, and conditions
+- Both landlord and tenant must sign
+
+2. RIGHT TO RECEIPT:
+- Tenant has right to receive receipt for every rent payment
+- If landlord refuses to accept rent, tenant can deposit in court
+
+3. RIGHT AGAINST ARBITRARY EVICTION:
+- Landlord cannot evict without valid grounds
+- Valid grounds include: non-payment of rent for 2+ months, subletting without permission, misuse of property, landlord's personal need
+- Proper notice must be given (usually 1-3 months depending on state)
+- Only court/tribunal can order eviction
+
+4. RIGHT TO ESSENTIAL SERVICES:
+- Landlord cannot cut water, electricity, or other essential services
+- Disconnection of services to force eviction is illegal
+- Tenant can file complaint with Rent Authority
+
+5. SECURITY DEPOSIT:
+- Model Tenancy Act limits: maximum 2 months rent for residential
+- Deposit must be returned within 1 month of vacancy (after deducting damages if any)
+- Landlord cannot make arbitrary deductions
+- If landlord refuses to return, tenant can file complaint
+
+6. RIGHT TO PRIVACY:
+- Landlord must give 24 hours notice before entering premises
+- Cannot enter without tenant's permission except in emergency
+- Repeated unauthorized entry is harassment
+
+7. RIGHT AGAINST DISCRIMINATION:
+- Cannot refuse tenancy based on religion, caste, gender, marital status, food habits
+- Some state laws specifically prohibit such discrimination
+
+8. RENT INCREASE:
+- Cannot increase rent during tenancy period without agreement
+- Model Tenancy Act: rent revision not before 12 months
+- Increase must be as per agreement terms or reasonable
+
+WHAT TO DO IF LANDLORD REFUSES TO RETURN SECURITY DEPOSIT:
+
+Step 1: Send a written notice (email/registered post) demanding return within 15 days
+Step 2: Document the condition of property at time of vacating (photos/videos)
+Step 3: If not returned, send a legal notice through advocate
+Step 4: File complaint with Rent Authority/Tribunal (under Model Tenancy Act)
+Step 5: Alternative: File case in Civil Court or Consumer Forum
+
+LEGAL NOTICE FORMAT FOR SECURITY DEPOSIT RETURN:
+
+LEGAL NOTICE
+
+To,
+[Landlord Name]
+[Landlord Address]
+
+From,
+[Tenant Name]
+Through Advocate [Name], [Address]
+
+Date: [Date]
+
+Subject: Legal Notice for Return of Security Deposit
+
+Sir/Madam,
+
+Under instructions from my client [Tenant Name], I serve upon you this Legal Notice:
+
+1. My client was a tenant at [Property Address] from [Start Date] to [End Date] under a rental agreement dated [Date].
+2. My client paid a security deposit of Rs. [Amount] at the commencement of tenancy.
+3. My client vacated the premises on [Date] after giving due notice and handing over possession in good condition.
+4. Despite repeated requests, you have failed to return the security deposit of Rs. [Amount].
+5. Your failure to return the deposit is in violation of the rental agreement and applicable tenancy laws.
+
+You are hereby called upon to refund the entire security deposit of Rs. [Amount] within 15 days of receipt of this notice, failing which my client shall be constrained to initiate appropriate legal proceedings against you, at your risk, cost, and consequences.
+
+[Advocate Name]
+[Enrollment Number]
+[Address]
+
+COMMON TENANT DISPUTES AND REMEDIES:
+- Illegal eviction: File FIR + approach Rent Tribunal
+- Services cut off: File complaint with Rent Authority + police
+- Deposit not returned: Legal notice + Consumer Forum/Civil Court
+- Excessive rent increase: Challenge before Rent Authority
+- Maintenance issues: Written notice to landlord, if ignored approach authorities
+- Harassment: Document everything, file police complaint if criminal
+
+IMPORTANT CONTACTS:
+- Rent Authority/Tribunal (varies by city)
+- Consumer Forum: edaakhil.nic.in
+- Police: 100 or local station
+- Legal Aid: District Legal Services Authority (DLSA)
+- National Legal Services Authority helpline: 15100

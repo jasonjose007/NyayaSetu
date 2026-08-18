@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+chromadb
+pydantic
+python-multipart
+jinja2
+httpx
+langchain-text-splitters
